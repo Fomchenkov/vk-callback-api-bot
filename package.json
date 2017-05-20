@@ -1,0 +1,19 @@
+{
+  "name": "VK-callback-api",
+  "version": "1.0.0",
+  "description": "A sample Node.js VKL callback bot",
+  "engines": {
+    "node": "6.10.2",
+    "npm": "3.10.9"
+  },
+  "main": "vk.js",
+  "scripts": {
+    "start": "node vk.js"
+  },
+  "dependencies": {
+    "express": "4.15.2",
+    "body-parser": "1.17.1",
+    "request": "2.81.0"
+  },
+  "license": "MIT"
+}
